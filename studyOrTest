@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link, a:visited {
+    background-color: DodgerBlue;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: RoyalBlue;
+}
+</style>
+</head>
+<body>
+
+<center>
+<br><br><br><br><br><br><br><br>
+<a href="https://www.google.com" target="_blank">WOULD YOU LIKE TO STUDY?</a>
+<br><br><br><br>
+<a href="https://www.youtube.com" target="_blank">OR WOULD YOU LIKE TO TEST YOURSELF?</a>
+</center>
+
+</body>
+</html>
+
